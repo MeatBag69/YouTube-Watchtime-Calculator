@@ -31,9 +31,10 @@ Welcome to the YouTube Watchtime Calculator! This Chrome extension helps you cal
 
 ## Screenshots
 
-![Screenshot1]
-![Without Plugin](https://github.com/MeatBag69/YouTube-Watchtime-Calculator/assets/55755926/d377a2c0-a9c4-452c-ac8d-560e8a79b3db)
-![With Plugin](https://github.com/MeatBag69/YouTube-Watchtime-Calculator/assets/55755926/c3e31100-2c84-4901-8ec7-323741b4e83c)
+![sneak peak]
+![Without Plugin](https://github.com/MeatBag69/YouTube-Watchtime-Calculator/assets/55755926/c3e31100-2c84-4901-8ec7-323741b4e83c)
+
+![With Plugin](https://github.com/MeatBag69/YouTube-Watchtime-Calculator/assets/55755926/d377a2c0-a9c4-452c-ac8d-560e8a79b3db)
 
 
 ## Roadmap
