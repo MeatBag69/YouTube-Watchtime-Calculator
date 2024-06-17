@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Watchtime Calculator",
+  "version": "1.0",
+  "description": "Calculate and display the total watch time of all videos on a YouTube channel.",
+  "icons": {
+    "48": "icon.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_icon": "icon.png"
+  }
+}
